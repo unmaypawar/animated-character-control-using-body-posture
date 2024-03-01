@@ -15,4 +15,4 @@ conda create --name char_control --file requirements.txt
 ```
 ## Support Information
 
-Please raise an issue or pull request.
+Please raise an issue or a pull request.
