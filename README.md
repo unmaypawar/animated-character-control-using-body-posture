@@ -1,6 +1,6 @@
 # animated-character-control-using-body-posture
 
-## About
+## Description
 
 <p>This project utilizes Python libraries such as OpenCV, Mediapipe, and Tkinter to enable gesture-controlled character movement through body posture recognition. By estimating human pose from video input, the program tracks key body part coordinates and translates them into commands for controlling a graphical user interface (GUI) character on-screen.</p>
 
@@ -8,8 +8,11 @@
 
 <p>Overall, this project offers a versatile framework for implementing gesture control, with possibilities for both entertainment and practical applications across various domains.</p>
 
-## Installation
+## Installation Instructions
 
 ```
 conda create --name char_control --file requirements.txt
 ```
+## Support Information
+
+Please raise an issue or pull request.
